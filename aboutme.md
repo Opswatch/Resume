@@ -9,7 +9,7 @@
 I have been working in IT for 8 Years, 3 of those doing application support for all lines of business at TD, over those years I have been able to learn how other teams and developers
 work at TD as well as how the deployment process works and all the different environments like dev, pat, prod.
 I went to Trios college for network administration after working for Teletech doing level 3 support, I am enthusiastic about devops, software engineering and cloud
-and most of my free time is spent working on my home lab which is were I learn most of my skills, for the past year I have been working on shifting my stack to 
+and most of my free time is spent working on my home lab which is where I learn most of my skills, for the past year I have been working on shifting my stack to 
 infrastructure as code and learning the technologies behind it. 
 
 Over the last year and half I have learned more in depth linux knowledge as well as tools like ansible, foreman, docker and kubernetes.
