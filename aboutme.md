@@ -12,7 +12,7 @@ I went to Trios college for network administration after working for Teletech do
 and most of my free time is spent working on my home lab which is were I learn most of my skills, for the past year I have been working on shifting my stack to 
 infrastructure as code and learning the technologies behind it. 
 
-Over the last year and half I have learned more in depth linux knowledge as well as tools like ansible and foreman.
+Over the last year and half I have learned more in depth linux knowledge as well as tools like ansible, foreman, docker and kubernetes.
 I have been able to pick up knowledge in deploying docker environments and then setting up kubernetes on top of them using either kubeadm or rancher, it has allowed me to learn 
 yaml and how configs for docker and kubernetes are put together, it also has helped me get used to working with git/github, lately I have been working on a homelab project on using
 rancher to deploy kubernetes and using opensource rancher catalogue items to deploy openstack on kubernetes from a private docker registry, although it is not indepth knowledge
