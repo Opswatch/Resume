@@ -2,10 +2,11 @@
 ## IT Operations Analyst 
 
 > [Hugo.pinheiro@td.com](Hugo.pinheiro@td.com)  
-> (226) 373-2499
+> (226) 373-2499       [Git](github.com/Opswatch)
 
 ## Professional Skills 
 
+Able to pick up concepts quickly
 Self-directed learner and willing to experiment with new things                            
 High level of contextual and technological adaptability (i.e., tool- and industry-agnostic)                                                                                     
 Creative thinking ability and good analytical skills                                                   
@@ -15,13 +16,15 @@ Excellent communication skills (written and oral)
 Superior customer service skills                                                                     
 Able to work in a fast paced environment and able to adapt to different work priorities                                                                                    
 Experience working as a consultant                                                                            
-A passion for the field of computer and network security
+A passion for the field of devops, software engineering and cloud
 
 -------
 
 ## Technical Skills 
 
-Docker/Vagrant/Ubuntu/Centos/Ansible                                                            
+Kubernetes/Openstack                                                            
+Docker/Vagrant/Ansible
+Ubuntu/Centos/Git                                                            
 RancherOS/Rancher                                                                              
 Xenserver/Vsphere/Hyper-v                                                                                 
 LAN and WAN technologies and concepts                                                             
