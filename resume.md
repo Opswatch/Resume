@@ -6,7 +6,7 @@
 
 ## Professional Skills 
 
-Able to pick up concepts quickly
+Able to pick up concepts quickly                                                                      
 Self-directed learner and willing to experiment with new things                            
 High level of contextual and technological adaptability (i.e., tool- and industry-agnostic)                                                                                     
 Creative thinking ability and good analytical skills                                                   
@@ -23,7 +23,7 @@ A passion for the field of devops, software engineering and cloud
 ## Technical Skills 
 
 Kubernetes/Openstack                                                            
-Docker/Vagrant/Ansible
+Docker/Vagrant/Ansible                                                                              
 Ubuntu/Centos/Git                                                            
 RancherOS/Rancher                                                                              
 Xenserver/Vsphere/Hyper-v                                                                                 
