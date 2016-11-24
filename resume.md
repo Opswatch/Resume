@@ -1,7 +1,7 @@
 # Hugo Pinheiro
 ## IT Operations Analyst 
 
-> [Hugo.pinheiro@td.com](Hugo.pinheiro@td.com)  
+> [Hugo.pinheiro@td.com](Hugo.pinh@gmail.com)  
 > (226) 373-2499       Git: https://github.com/Opswatch
 
 ## Professional Skills 
