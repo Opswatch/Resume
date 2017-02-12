@@ -3,7 +3,7 @@
 
 # Hugo Pinheiro
 
-> ## Service Hub Technician position   
+>   
 > 
 
 I have been working in IT for 8 Years, 3 of those doing application support for all lines of business at TD, over those years I have been able to learn how other teams and developers
@@ -20,7 +20,7 @@ Lately I have been working on a homelab project on using rancher to deploy kuber
 private docker registry, although it is not indepth knowledge it has helped round out my operations skills with some development skills, in the next year im planning in 
 studying for the rhcsa and the aws devops cert after that.
 
-I believe I would be a good asset for your team and would love to speak with you more about what I could bring to the Mccormick team.
+
 
 
 ------
