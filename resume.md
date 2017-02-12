@@ -1,8 +1,9 @@
 # Hugo Pinheiro
-## IT Operations Analyst 
+ 
 
 > [Hugo.pinh@gmail.com](Hugo.pinh@gmail.com)  
 > (226) 373-2499       Git: https://github.com/Opswatch
+> 2350 Main street London, Ontario
 
 ## Professional Skills 
 
