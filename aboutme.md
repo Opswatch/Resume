@@ -3,7 +3,11 @@
 
 # Hugo Pinheiro
 
+<<<<<<< HEAD
 >   
+=======
+> ##    
+>>>>>>> 70a27e79e86879b83c4944744934d026533cc095
 > 
 
 I have been working in IT for 8 Years, 3 of those doing application support for all lines of business at TD, over those years I have been able to learn how other teams and developers
