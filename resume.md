@@ -23,16 +23,16 @@ A passion for the field of devops, software engineering and cloud
 
 ## Technical Skills 
 
-Kubernetes/Openstack                                                            
-Docker/Vagrant/Ansible                                                                              
-Ubuntu/Centos/Git                                                            
-RancherOS/Rancher                                                                              
-Xenserver/Vsphere/Hyper-v                                                                                 
-LAN and WAN technologies and concepts                                                             
-Windows XP, 7, 8, 10                                                                                 
-Active Directory                                                                                 
-Android/IOS                                                                                           
-Server 2008/2012
+Kubernetes|Openstack - 1 year - non production                                                         
+Docker|Vagrant|Ansible - 1 year - non production                                                                              
+Ubuntu|Centos|Git - 1 year -non production                                                           
+RancherOS|Rancher - 3 years - non production                                                                             
+Xenserver|1 year    Vsphere|3 years    Hyper-v|Since release - non production                                                                                
+LAN and WAN technologies and concepts|5 years production                                                             
+Windows XP, 7, 8, 10|Since release production                                                                                  
+Active Directory|5 years production                                                                                 
+Android/IOS|3 years production                                                                                           
+Server 2008/2012|2 years production
 
 ------
 
