@@ -24,7 +24,7 @@ Lately I have been working on a homelab project on using rancher to deploy kuber
 private docker registry, although it is not indepth knowledge it has helped round out my operations skills with some development skills, in the next year im planning in 
 studying for the lpic/azure and the aws devops cert after that.
 
-If in the future you decide to look for a junior devops engineering, feel free to get in touch.
+If in the future you decide to look for a junior devops engineer, feel free to get in touch.
 
 
 ------
