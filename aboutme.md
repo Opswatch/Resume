@@ -22,9 +22,9 @@ yaml and how configs for docker and kubernetes are put together, it also has hel
 
 Lately I have been working on a homelab project on using rancher to deploy kubernetes and using opensource rancher catalogue items to deploy openstack on kubernetes from a 
 private docker registry, although it is not indepth knowledge it has helped round out my operations skills with some development skills, in the next year im planning in 
-studying for the rhcsa and the aws devops cert after that.
+studying for the lpic/azure and the aws devops cert after that.
 
-
+If in the future you decide to look for a junior devops engineering, feel free to get in touch.
 
 
 ------
