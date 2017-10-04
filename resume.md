@@ -40,7 +40,7 @@ Server 2008/2012|2 years production
 
 ## InnoSoft Canada Inc
 ## Systems Administrator
-  __August 2017 - Present__
+  __August 2017 - Present__                                                                                                                                                                                             
 Assist with PCI compliance planning and remediation                                                                                                                                                                     
 Support and administer Amazon web services enviroment                                                                                                                                                                   
 Assist with migrating clients from hosted environment to Amazon web services                                                                                                                                            
@@ -51,10 +51,10 @@ Provide local desktop support
 
 ## InnoSoft Canada Inc
 ## Client sucess specialist
-  __May 2017 - August 2017__
-Provided configuration and application support for Fusion 
-Assisted in developing and implemmenting sql and hyper-v best practices 
-Assisted in diagnosing performance issues in production environment 
+  __May 2017 - August 2017__                                                                                                                                                                                            
+Provided configuration and application support for Fusion                                                                                                                                                               
+Assisted in developing and implemmenting sql and hyper-v best practices                                                                                                                                                 
+Assisted in diagnosing performance issues in production environment                                                                                                                                                     
 
 ## TD Bank
 ## IT Support Analyst
