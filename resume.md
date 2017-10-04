@@ -38,6 +38,24 @@ Server 2008/2012|2 years production
 
 ## Experience 
 
+## InnoSoft Canada Inc
+## Systems Administrator
+  __August 2017 - Present__
+Assist with PCI compliance planning and remediation
+Support and administer Amazon web services enviroment
+Assist with migrating clients from hosted environment to Amazon web services
+Document hardware inventory
+Provide systems administration of current hosted enviroments
+Implemented network monitoring system
+Provide local desktop support
+
+## InnoSoft Canada Inc
+## Client sucess specialist
+  __May 2017 - August 2017__
+Provided configuration and application support for Fusion
+Assisted in developing and implemmenting sql and hyper-v best practices
+Assisted in diagnosing performance issues in production environment
+
 ## TD Bank
 ## IT Support Analyst
   __August 2013 - present__                                                                         
@@ -50,13 +68,11 @@ Provide training to new agents in the form of shadowing
 ## Opswatch
 ## Owner and founder
   __August 2010 - present__                                                                     
-Responsible for providing managed IT and security services                                                    to small businesses in London.                                                                  
+Responsible for providing managed IT and security services to small businesses in London.                                                                  
 Supported a 30 user small business hardware refresh                                                   
-Created 30 user domain including exchange server                                                             
-Initiated a POC for a virtual environment using esxi                                                    
-Migrated from AVG antivirus to Vipre antivirus
-Provided active directory and exchange support for 30 user small business
-Provided server monitoring and support                                                                                  
+Created 30 user domain including exchange server                                                               
+Initiated a POC for a virtual environment using esxi                                                      
+Migrated from AVG antivirus to Vipre antivirus                                                                            
 
 ## Teletech
 ## Lvl 3 Helpdesk technician
