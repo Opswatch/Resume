@@ -112,6 +112,6 @@ St. Marys catholic secondary school |Graduated: 2000
 
 ------
 
-> Hugo Pinheiro -- [Hugo.pinh@gmail.com](hugo.pinh@gmail.com) -- (226) 373-2499
+> Hugo Pinheiro -- [Hugo.pinh@gmail.com](hugo.pinh@gmail.com) 
 
 ------
