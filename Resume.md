@@ -2,8 +2,8 @@
  
 
 > [Hugo.pinh@gmail.com](Hugo.pinh@gmail.com)  
-> (226) 373-2499       Git: https://github.com/Opswatch
-> 2350 Main street London, Ontario
+> Git: https://github.com/Opswatch
+
 
 ## Professional Skills 
 
