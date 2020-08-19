@@ -31,11 +31,10 @@ Xenserver|1 year    Vsphere|3 years    Hyper-v|Since release - non production
 LAN and WAN technologies and concepts| 7 years production                                                             
 Windows XP, 7, 8, 10|Since release production                                                                                  
 Active Directory|5 years production                                                                                 
-Android/IOS|3 years production                                                                                           
-Server 2008/2012/2016|3 years production
-AWS (VPC,S3,SES,RDS,EBS,AMI) - 3 Years production
-Powershell Scripting - 1 year production
-
+Android/IOS|3 years production
+Server 2008/2012/2016|3 years production                                                                                                                                                  
+AWS (VPC,S3,SES,RDS,EBS,AMI) - 3 Years production                                                                                                                                
+Powershell Scripting - 1 year production                                                                                                                                                
 
 ------
 
