@@ -25,15 +25,13 @@ A passion for the field of devops, software engineering and cloud
 
 Kubernetes                                                         
 Docker
-AWS (VPC,S3,SES,RDS,EBS,AMI)
-Advanced Knowledge and understanding CI/CD pipelines and deployment automation | Gitlab
-Infrastructure as code | Ansible | Terraform
-Datadog
-Sentry
-Cloudflare                                                      
-Linux
-Bash                                                           
-Rancher                                                                             
+AWS (VPC,S3,SES,RDS,EBS,AMI)                                                                                                                                                  
+Advanced Knowledge and understanding CI/CD pipelines and deployment automation | Gitlab                                                                                       
+Infrastructure as code | Ansible | Terraform                                                                                                                                  
+Datadog                                                                                                                                                                       
+Sentry                                                                                                                                                                        
+Cloudflare                                                                                                                                                                    Linux                                                                                                                                                                         
+Bash                                                                                                                                                                          Rancher                                                                             
 LAN and WAN technologies and concepts                                                            
 Active Directory                                                                                
 Powershell                                                                                                                                             
@@ -48,24 +46,24 @@ Powershell
 
   _Projects_
 
-Helped with creating custom terraform plans to easily create eks clusters
-Updated certbot infra for main saas app bringing it up to date with best practices 
-Researched architecture for in-house whitelabel solution
-Moved several projects to gitlab and converted ci/cd pipelines from Teamcity to gitlab
-Provided gitlab pipeline support and guidance for teams
-Created several ansible playbooks to automate common support tasks 
-Researched and helped implement kong ingress as new ingress solution allowing for possible expansion into a api gateway in the future 
-Reworked our local dev setup to use caddy and coredns for local ssl certs and dns eliminating the need to manually having to generate ssl certs every year
-Researched and implemented datadog apm monitoring on eks kubernetes clusters
+Helped with creating custom terraform plans to easily create eks clusters                                                                                                     
+Updated certbot infra for main saas app bringing it up to date with best practices                                                                                            
+Researched architecture for in-house whitelabel solution                                                                                                                      
+Moved several projects to gitlab and converted ci/cd pipelines from Teamcity to gitlab                                                                                        
+Provided gitlab pipeline support and guidance for teams                                                                                                                       
+Created several ansible playbooks to automate common support tasks                                                                                                            
+Researched and helped implement kong ingress as new ingress solution allowing for possible expansion into a api gateway in the future                                         
+Reworked our local dev setup to use caddy and coredns for local ssl certs and dns eliminating the need to manually having to generate ssl certs every year                    
+Researched and implemented datadog apm monitoring on eks kubernetes clusters                                                                                                  
 
   _Duties_
 
-Collaborate with engineers and maintain and troubleshoot production systems
-Monitor current data architecture (MySQL, Snowflake) and identify potential performance improvements
-Maintain and recommend security best practices and collaborate with IT to identify risks while enabling engineering to build data-powered features
-Support the development and deployment of new services and systems in an AWS and Kubernetes environment
-Educate the organization on best practices for logging, error handling and alerting (Datadog, Sentry, etc)
-Document changes and share learnings within the technical organization of NinjaCat
+Collaborate with engineers and maintain and troubleshoot production systems                                                                                                   
+Monitor current data architecture (MySQL, Snowflake) and identify potential performance improvements                                                                          
+Maintain and recommend security best practices and collaborate with IT to identify risks while enabling engineering to build data-powered features                            
+Support the development and deployment of new services and systems in an AWS and Kubernetes environment                                                                       
+Educate the organization on best practices for logging, error handling and alerting (Datadog, Sentry, etc)                                                                    
+Document changes and share learnings within the technical organization of NinjaCat                                                                                            
 
 ## Digital Echidna
 ## Systems Administrator
@@ -75,10 +73,11 @@ Document changes and share learnings within the technical organization of NinjaC
 
 Created a Devops wiki and over 20 articles to better allow knowledge transfer between sysadmin team and developers                                                       
 Created Self hosted architecture Diagrams to better explain self hosted options to clients                                                                                                              
-Automated new macbook installs using a combination of custom bash scripts, custom and open source ansible playbooks cutting setup time from 2.5 hours to 1 hour                                                                   
-as well as making setups repeatable and enabling self service
 
-Architected a gitlab ci pipeline using a set of custom and open source ansible playbooks to automate self hosted server installs, cutting setup time to 10 minutes and allowing infrastructure as code                                                                                                                                           
+Automated new macbook installs using a combination of custom bash scripts, custom and open source ansible playbooks cutting setup time from 2.5 hours to 1 hour as well as making setups repeatable and enabling self service                                                                                                                            
+                                                                                                                                                                              
+Architected a gitlab ci pipeline using a set of custom and open source ansible playbooks to automate self hosted server installs, cutting setup time to 10 minutes and allowing infrastructure as code                                                                                                                                               
+                                                                                                                                                                              
 Recommended a system for IT hardware inventory allowing better tracking and management of hardware available                                                                                        
 
  _Duties_ 
