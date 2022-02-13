@@ -1,7 +1,7 @@
 # Hugo Pinheiro
  
 
-> [Hugo.pinh@gmail.com](Hugo.pinh@gmail.com)  
+> [Hugo@userops.me](Hugo@userops.me)  
 > Git: https://github.com/Opswatch
 
 
@@ -165,6 +165,6 @@ St. Marys catholic secondary school |Graduated: 2000
 
 ------
 
-> Hugo Pinheiro -- [Hugo.pinh@gmail.com](hugo.pinh@gmail.com) 
+> Hugo Pinheiro -- [Hugo@userops.me](hugo@userops.me) 
 
 ------
