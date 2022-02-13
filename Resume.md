@@ -23,26 +23,53 @@ A passion for the field of devops, software engineering and cloud
 
 ## Technical Skills 
 
-Kubernetes|Openstack - 2 years - non production                                                         
-Docker|Vagrant|Ansible - 2 years - production                                                                              
-Ubuntu|Centos|Git - 2 years - production                                                           
-RancherOS|Rancher - 4 years - non production                                                                             
-Xenserver|1 year    Vsphere|3 years    Hyper-v|Since release - non production                                                                                
-LAN and WAN technologies and concepts| 7 years production                                                             
-Windows XP, 7, 8, 10|Since release production                                                                                  
-Active Directory|5 years production                                                                                 
-Android/IOS|3 years production                                                                                                                                                        
-Server 2008/2012/2016|3 years production                                                                                                                                                  
-AWS (VPC,S3,SES,RDS,EBS,AMI) - 3 Years production                                                                                                                                
-Powershell Scripting - 1 year production                                                                                                                                                
+Kubernetes                                                         
+Docker
+AWS (VPC,S3,SES,RDS,EBS,AMI)
+Advanced Knowledge and understanding CI/CD pipelines and deployment automation | Gitlab
+Infrastructure as code | Ansible | Terraform
+Datadog
+Sentry
+Cloudflare                                                      
+Linux
+Bash                                                           
+Rancher                                                                             
+LAN and WAN technologies and concepts                                                            
+Active Directory                                                                                
+Powershell                                                                                                                                             
 
 ------
 
 ## Experience 
 
+## Ninjacat
+## Site Reliability Engineer 
+  __Dec 2020 - Currently__
+
+  _Projects_
+
+Helped with creating custom terraform plans to easily create eks clusters
+Updated certbot infra for main saas app bringing it up to date with best practices 
+Researched architecture for in-house whitelabel solution
+Moved several projects to gitlab and converted ci/cd pipelines from Teamcity to gitlab
+Provided gitlab pipeline support and guidance for teams
+Created several ansible playbooks to automate common support tasks 
+Researched and helped implement kong ingress as new ingress solution allowing for possible expansion into a api gateway in the future 
+Reworked our local dev setup to use caddy and coredns for local ssl certs and dns eliminating the need to manually having to generate ssl certs every year
+Researched and implemented datadog apm monitoring on eks kubernetes clusters
+
+  _Duties_
+
+Collaborate with engineers and maintain and troubleshoot production systems
+Monitor current data architecture (MySQL, Snowflake) and identify potential performance improvements
+Maintain and recommend security best practices and collaborate with IT to identify risks while enabling engineering to build data-powered features
+Support the development and deployment of new services and systems in an AWS and Kubernetes environment
+Educate the organization on best practices for logging, error handling and alerting (Datadog, Sentry, etc)
+Document changes and share learnings within the technical organization of NinjaCat
+
 ## Digital Echidna
 ## Systems Administrator
-  __July 2018 - Currently__
+  __July 2018 - Dec 2020__
   
  _Projects_ 
 
