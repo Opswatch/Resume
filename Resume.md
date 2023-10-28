@@ -46,6 +46,12 @@ Powershell
 
   _Projects_
 
+Created a onboarding process for future members of the SRE team
+Helped with creating custom Terraform plans to easily create EKS clusters
+Created a custom go cli to manage our local and remote infrastructure
+Created a framework to increase the speed of upgrading our kubernetes clusters using our custom go cli
+Used our custom framework and go cli to update our kubernetes clusters from v0.14 to v0.26 
+Created a framework using k3d, vcluster, cilium, ArgoCD and our custom go cli that allows the ops team to create local and virtual kubernetes cluster for testing and proof of concept work
 Helped with creating custom terraform plans to easily create eks clusters                                                                                                     
 Updated certbot infra for main saas app bringing it up to date with best practices                                                                                            
 Researched architecture for in-house whitelabel solution                                                                                                                      
