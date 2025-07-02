@@ -45,7 +45,7 @@ Scripting: Bash, PowerShell, Go
 ## Professional Experience
 
 ## NinjaCat | Site Reliability Engineer
-December 2020 - Present
+December 2020 - July 2025
 
 Spearheaded the development of a custom Go CLI tool for managing local and remote infrastructure, significantly improving operational efficiency.
 
