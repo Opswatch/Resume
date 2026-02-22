@@ -44,6 +44,11 @@ Scripting: Bash, PowerShell, Go
 
 ## Professional Experience
 
+## Modern Campus | Devops Engineer
+August 2025 - Current
+
+Created architecture and infrastructure of code for EKS clusters.
+
 ## NinjaCat | Site Reliability Engineer
 December 2020 - July 2025
 
@@ -111,3 +116,4 @@ Continuously expanding knowledge in cloud technologies, containerization, and De
 > Hugo Pinheiro -- [Hugo@userops.me](hugo@userops.me) 
 
 ------
+
