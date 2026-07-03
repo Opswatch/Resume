@@ -111,9 +111,9 @@ Teletech | Level 3 Helpdesk Technician (January 2005 - 2008)
 
 ## Education
 
-Diploma: Network Administrator | Trios College (2009)
+Diploma: Network Administrator | Trios College 
 
-High School Diploma | St. Mary's Catholic Secondary School (2000)
+High School Diploma | St. Mary's Catholic Secondary School 
 
 ## Professional Development
 
