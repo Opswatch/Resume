@@ -49,7 +49,11 @@ Scripting: Bash, PowerShell, Go
 ## Modern Campus | Devops Engineer
 August 2025 - Current
 
-Created architecture and infrastructure as code for EKS clusters.
+Created architecture and infrastructure as code for EKS clusters to modernize existing app infrastructure.
+
+Created several gitlab pipelines to automate the creation and day two updates of eks clusters allowing for selfservice. 
+
+Created several ansible playbooks to automate daily team operation tasks eliminating the need for clickops.
 
 ## NinjaCat | Site Reliability Engineer
 December 2020 - July 2025
