@@ -4,173 +4,123 @@
 > [Hugo@userops.me](Hugo@userops.me)  
 > Git: https://github.com/Opswatch
 
+## Professional Summary
 
-## Professional Skills 
+Experienced Site Reliability Engineer with a strong background in DevOps, cloud technologies, and infrastructure automation. Skilled in Kubernetes, AWS, CI/CD pipelines, and infrastructure as code. Proven track record of improving system reliability, implementing efficient workflows, and driving technological advancements in fast-paced environments.
 
-Able to pick up concepts quickly                                                                      
-Self-directed learner and willing to experiment with new things                            
-High level of contextual and technological adaptability (i.e., tool- and industry-agnostic)                                                                                     
-Creative thinking ability and good analytical skills                                                   
-Outstanding problem solving abilities                                                          
-Experience working both as part of a team and independently                                          
-Excellent communication skills (written and oral)                                              
-Superior customer service skills                                                                     
-Able to work in a fast paced environment and able to adapt to different work priorities                                                                                    
-Experience working as a consultant                                                                            
-A passion for the field of devops, software engineering and cloud
+## Core Competencies
 
--------
+Cloud Infrastructure
 
-## Technical Skills 
+CI/CD & Deployment Automation
 
-Kubernetes                                                         
-Docker
-AWS (VPC,S3,SES,RDS,EBS,AMI)                                                                                                                                                  
-Advanced Knowledge and understanding CI/CD pipelines and deployment automation | Gitlab                                                                                       
-Infrastructure as code | Ansible | Terraform                                                                                                                                  
-Datadog                                                                                                                                                                       
-Sentry                                                                                                                                                                        
-Cloudflare                                                                                                                                                                    Linux                                                                                                                                                                         
-Bash                                                                                                                                                                          Rancher                                                                             
-LAN and WAN technologies and concepts                                                            
-Active Directory                                                                                
-Powershell                                                                                                                                             
+Infrastructure as Code 
 
-------
+Monitoring & Observability 
 
-## Experience 
+Linux Administration
 
-## Ninjacat
-## Site Reliability Engineer 
-  __Dec 2020 - Currently__
+Scripting & Automation
 
-  _Projects_
+Problem-solving & Analytical Thinking
 
-Created a onboarding process for future members of the SRE team
-Helped with creating custom Terraform plans to easily create EKS clusters
-Created a custom go cli to manage our local and remote infrastructure
-Created a framework to increase the speed of upgrading our kubernetes clusters using our custom go cli
-Used our custom framework and go cli to update our kubernetes clusters from v0.14 to v0.26 
-Created a framework using k3d, vcluster, cilium, ArgoCD and our custom go cli that allows the ops team to create local and virtual kubernetes cluster for testing and proof of concept work
-Helped with creating custom terraform plans to easily create eks clusters                                                                                                     
-Updated certbot infra for main saas app bringing it up to date with best practices                                                                                            
-Researched architecture for in-house whitelabel solution                                                                                                                      
-Moved several projects to gitlab and converted ci/cd pipelines from Teamcity to gitlab                                                                                        
-Provided gitlab pipeline support and guidance for teams                                                                                                                       
-Created several ansible playbooks to automate common support tasks                                                                                                            
-Researched and helped implement kong ingress as new ingress solution allowing for possible expansion into a api gateway in the future                                         
-Reworked our local dev setup to use caddy and coredns for local ssl certs and dns eliminating the need to manually having to generate ssl certs every year                    
-Researched and implemented datadog apm monitoring on eks kubernetes clusters                                                                                                  
+Team Collaboration & Communication
 
-  _Duties_
+## Technical Skills
 
-Collaborate with engineers and maintain and troubleshoot production systems                                                                                                   
-Monitor current data architecture (MySQL, Snowflake) and identify potential performance improvements                                                                          
-Maintain and recommend security best practices and collaborate with IT to identify risks while enabling engineering to build data-powered features                            
-Support the development and deployment of new services and systems in an AWS and Kubernetes environment                                                                       
-Educate the organization on best practices for logging, error handling and alerting (Datadog, Sentry, etc)                                                                    
-Document changes and share learnings within the technical organization of NinjaCat                                                                                            
+AI: LLvm, llama.cpp, SLM, Agent harnesses, Agent frameworks.
 
-## Digital Echidna
-## Systems Administrator
-  __July 2018 - Dec 2020__
-  
- _Projects_ 
+Cloud & Containerization: Kubernetes, Docker, AWS (VPC, S3, SES, RDS, EBS, AMI)
 
-Created a Devops wiki and over 20 articles to better allow knowledge transfer between sysadmin team and developers                                                       
-Created Self hosted architecture Diagrams to better explain self hosted options to clients                                                                                                              
+CI/CD & Version Control: GitLab, ArgoCD, Teamcity
 
-Automated new macbook installs using a combination of custom bash scripts, custom and open source ansible playbooks cutting setup time from 2.5 hours to 1 hour as well as making setups repeatable and enabling self service                                                                                                                            
-                                                                                                                                                                              
-Architected a gitlab ci pipeline using a set of custom and open source ansible playbooks to automate self hosted server installs, cutting setup time to 10 minutes and allowing infrastructure as code                                                                                                                                               
-                                                                                                                                                                              
-Recommended a system for IT hardware inventory allowing better tracking and management of hardware available                                                                                        
+Infrastructure as Code: Ansible, Terraform
 
- _Duties_ 
- 
-Support and setup internal developer environments using custom bash scripts, custom and open source ansible playbooks.                                                                       
-Setup and support internal equipment for new developers                                                                                                                      
-Setup and support server environments for clients                                                                                                                             
-Provide support for internal CI pipelines                                                                                                                                        
-Provide architecture design and launch day support for client environments both self hosted and in the cloud                                                                    
-Architect and deploy SSO integration for client websites                                                                                                                        
-Provide support for pentest reporting interpretation and remediation for client environments                                                                                       
+Monitoring & Logging: Datadog, Sentry
+
+Networking: Cloudflare, LAN/WAN technologies
+
+Operating Systems: Linux, Windows (Active Directory)
+
+Scripting: Bash, PowerShell, Go
+
+## Professional Experience
+
+## Modern Campus | Devops Engineer
+August 2025 - Current
+
+Created architecture and infrastructure as code for EKS clusters to modernize existing app infrastructure.
+
+Created several gitlab pipelines to automate the creation and day two updates of eks clusters allowing for selfservice. 
+
+Created several ansible playbooks to automate daily team operation tasks eliminating the need for clickops.
+
+## NinjaCat | Site Reliability Engineer
+December 2020 - July 2025
+
+Spearheaded the development of a custom Go CLI tool for managing local and remote infrastructure, significantly improving operational efficiency.
+
+Orchestrated Kubernetes cluster upgrades from v0.14 to v0.31 using a custom-built framework, ensuring minimal downtime and optimal performance.
+
+Designed and implemented a local development framework utilizing k3d, vCluster, Cilium, and ArgoCD, enabling rapid testing and proof-of-concept work.
+
+Led the migration of several projects to GitLab, including CI/CD pipeline conversions from TeamCity, resulting in streamlined workflows and improved collaboration.
+
+Researched and implemented Kong Ingress as a new ingress solution, laying the groundwork for future API gateway expansion.
+
+Optimized the local development environment by integrating Caddy and CoreDNS for automated SSL certificate and DNS management.
+
+Implemented Datadog APM monitoring on EKS Kubernetes clusters, enhancing observability and performance insights.
 
 
-## InnoSoft Canada Inc
-## Systems Administrator
-  __August 2017 - July 2018__                                                                                                                                                                                             
+## Digital Echidna | Systems Administrator
+July 2018 - December 2020
 
- _Projects_                                                                                                                                                                                                             
-Performed a lift and shift of a 80+ vm data center hosted environment to AWS hereby increasing infrastructure performance and automation                                                                                
-Created powershell automation to move sftp and backup infrastructure to AWS S3                                                                                                                                          
-Implemented a backup infrastructure on S3 allowing for cost savings                                                                                                                                                     
-Implemented updated RMM tools and infrastructure automation allowing for cost savings                                                                                                                                   
-Implemented AWS SES solution to replace aging smtp server                                                                                                                                                               
-Created powershell scripts to automate vulnerability patching                                                                                                                                                           
-Applied best practices to increase hosted infrastructure performance                                                                                                                                                    
-Architected active directory environment on AWS for hosted infrastructure                                                                                                                                               
-Created baseline AMI images to decrease time to deploy for AWS infrastructure                                                                                                                                           
+Created a comprehensive DevOps wiki with over 20 articles, facilitating knowledge transfer between the sysadmin team and developers.
 
- _Duties_                                                                                                                                                                                                               
-Deploy new VMs on EC2 hosted environment                                                                                                                                                                                                                                                                                                                           
-Create A records/cnames using AWS Route53                                                                                                                                                                                                                                                                
-Use RMM tool and cloud alerts to monitor hosted environment                                                                                                                                                             
-Work with third party vendors to procure new hardware                                                                                                                                                                   
-Create and manage accounts for various IT tools (email systems,RMM)                                                                                                                                                     
-Assist with resolving vulnerabilities in hosted environment by using vulnerability scanning and patching                                                                                                                
-Assist with PCI compliance planning                                                                                                                                                                                     
-Support and administer Amazon web services environment                                                                                                                                                                  
-Document hardware inventory                                                                                                                                                                                             
-Provide systems administration of current hosted environments                                                                                                                                                           
-Provide local desktop support                                                                                                                                                                                           
+Automated new MacBook setups using custom Bash scripts and Ansible playbooks, reducing setup time by 60% and enabling self-service options.
+
+Architected a GitLab CI pipeline with Ansible playbooks to automate self-hosted server installations, cutting setup time to 10 minutes and enabling infrastructure as code practices.
+
+Provided architecture design and launch day support for client environments, both self-hosted and cloud-based.
+
+Implemented SSO integration for client websites and supported pentest reporting interpretation and remediation.
 
 
-## InnoSoft Canada Inc
-## Client success specialist
-  __May 2017 - August 2017__                                                                                                                                                                                            
-Provided configuration and application support for Fusion                                                                                                                                                               
-Assisted in developing and implementing sql and hyper-v best practices                                                                                                                                                 
-Assisted in diagnosing performance issues in production environment                                                                                                                                                     
+## InnoSoft Canada Inc | Systems Administrator
+August 2017 - July 2018
 
-## TD Bank
-## IT Support Analyst
-  __August 2013 - May 2017__                                                                         
-Provided day one support for conversions from windows xp to windows 7 for Retail environment                                                                                       
-Provide day one support for conversions for all TD business lines                                          
-Provide technical day to day support for all TD business lines                                             
-Delivered training to 27 users on how to support Microsoft Office 365                                                 
-Provide training to new agents in the form of shadowing
+Led a successful lift-and-shift migration of 80+ VMs from a data center to AWS, improving infrastructure performance and automation.
 
-## Opswatch
-## Owner and founder
-  __August 2010 - May 2017__                                                                     
-Responsible for providing managed IT and security services to small businesses in London.                                                                  
-Supported a 30 user small business hardware refresh                                                   
-Created 30 user domain including exchange server                                                               
-Initiated a POC for a virtual environment using esxi                                                      
-Migrated from AVG antivirus to Vipre antivirus                                                                            
+Implemented cost-saving measures through S3-based backup infrastructure and updated RMM tools.
 
-## Teletech
-## Lvl 3 Helpdesk technician
-  __Jan 2005-2008__                                                                             
-Troubleshoot customers DSL and network connections                                                  
-Troubleshoot customers pc issues.                                                                         
-Issue de-escalation
+Architected an Active Directory environment on AWS for hosted infrastructure and created baseline AMI images to expedite AWS infrastructure deployment.
 
-------
-
-## Education 
-
-**Diploma: Network Administrator**
-Trios College | Graduated: 2009
-
-**Diploma**
-St. Marys catholic secondary school |Graduated: 2000
+Managed AWS services including EC2, Route 53, and SES, while ensuring PCI compliance and vulnerability management.
 
 
-------
+## Previous Roles
+
+InnoSoft Canada Inc | Client Success Specialist (May 2017 - August 2017)
+
+TD Bank | IT Support Analyst (August 2013 - May 2017)
+
+Opswatch | Owner and Founder (August 2010 - May 2017)
+
+Teletech | Level 3 Helpdesk Technician (January 2005 - 2008)
+
+## Education
+
+Diploma: Network Administrator | Trios College 
+
+High School Diploma | St. Mary's Catholic Secondary School 
+
+## Professional Development
+
+Continuously expanding knowledge in cloud technologies, containerization, and DevOps practices through self-directed learning and hands-on project work.
 
 > Hugo Pinheiro -- [Hugo@userops.me](hugo@userops.me) 
 
 ------
+
+
